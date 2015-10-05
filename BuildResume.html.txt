@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>MY RESUME</title>
+	</head>
+	<body>
+	    <div id="header">
+	        <h4 id="name">Pooja Sampelly</h4>
+	        <h5 id="email">pooja.sampelly23@gmail.com</h4>
+	        <h5 id="Resume">Resume</h5>
+	    </div>
+	    <div class="left"></div>
+	    <div class="right">
+	        <ul>
+	            <li class="headings">Work Experience</li>
+	            <li class="headings">Education</li>
+	            <li class="headings">Projects</li>
+	            <li class="headings">Techincal Skills</li>
+	            <li class="headings">Awards</li>
+	        </ul>
+	   </div>     
+	    <div id="footer">
+	    <p>Visit me at </p><a href="www.poojasampelly.com">  <h6>www.poojasampelly.com</h6></a></div>
+	</body>
+</html>

@@ -1,0 +1,84 @@
+#header{
+    border-radius:5px;
+    border: 1px solid skyblue;
+    margin-top:0px;
+    margin-bottom:20px;
+    height: 40px;
+    width:98.5%;
+    background-color:skyblue;
+    z-index:1;
+    position:fixed;
+    }
+
+.left{
+     border-radius:5px;
+    border: 1px solid;
+    width: 10.21%;
+    height:400px;
+    float:left;
+    position:relative;
+    color:#DE8C8C;
+    background-color:#DE8C8C;
+    margin-bottom:5px;
+    margin-top:30px;
+    }
+.right{
+    border-radius:5px;
+    border: 1px solid;
+    height:400px;;
+    width:88.5%;
+    float:right;
+    position:relative;
+    color:#CAE46F;
+    background-color:#CAE46F
+    margin-bottom:5px;
+    margin-top:30px;
+    
+    }
+#footer{
+    border-radius:5px;
+    border: 1px solid;
+    height: 30px;
+    clear:both;
+    color:black;
+    position:relative;
+    background-color:black;
+    
+    }
+    
+#name{
+	margin-left:20px;
+        margin-top:10px;
+        float:left;
+        font-size:15px;
+        font-family:Courier;
+        
+      }
+        
+#email{
+       	margin-top:10px;
+        float:right;
+        font-size:15px;
+        font-family:Courier;
+      }   
+ 
+ #Resume{        
+	margin-top:10px;
+        text-align:center;
+        font-size:15px;
+        font-family:Courier;
+        font-size:20px;
+        
+        }     
+.headings{
+            font-size:13px;
+            color:white;
+            
+         }
+p{          
+	color:white;
+        display:inline;
+ }
+a{color:blue; display:inline;}
+a:hover{color:red}
+            
