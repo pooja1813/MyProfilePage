@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Profile Page</title>
+	</head>
+	<body style="background-color:skyblue">
+	<img src="https://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg"/>
+	<p>Hi, This is Pooja Sampelly. I am currently living in Atlanta. I am from Warangal,India</p>
+	<ul>
+	    <li style="color:black;font-family:Arial,font-size:18px"> <strong>Interests</strong></li>
+	        <ol>
+	            <li>Coding</li>
+	            <li>Learning new tech Languages</li>
+	            <li>Working on Interesting Projects</li>
+	            <li>Watching Cricket</li>
+	            <li>Cycling and Hiking Trips</li>
+	            <li>Traveling</li>
+	            
+	        </ol>
+	        
+	    <li style="color:black;font-family:Arial,font-size:18px"><strong>Education</strong></li>
+	        <ol>
+	        <li>Masters in Computer Science, Texas Tech University, Lubbock, Texas.(2012-2014)</li>
+	        <li>Bachelors in Information Technology, Kakatiya University, India.(2008-2012)</li>
+	        
+	        </ol>
+	        
+	    <li style="color:black;font-family:Arial,font-size:18px"><strong> Jobs</strong></li>
+	        <ol>
+	            <li>Software Developer Intern,AdIT LLC, Atlanta, Georgia(April 2015-August 2015)</li>
+	            <li>Software Developer Intern, Intel Corporation, Austin, Texas.(July 2013-Jan 2014)</li>
+	            <li>Graduate Student WebMaster, Texas Tech University.(October 2012- July 2013)</li>
+	        </ol>
+	    <li style="color:black;font-family:Arial,font-size:18px"><strong>Technical Skills</strong></li>
+	        <ol>
+	            <li>Proficient:Java,C#,C++,Html,CSS,JavaScriptJquery,Object Oriented Programming Concepts, SQLserver, MySQL</li>
+	            <li>Used Before: AngularJs,PHP,Android Mobile Development, MongoDb</li>
+	            <li>Beginner: Amazon Web Services</li>
+	            
+	            
+	        </ol>
+	    <li style="color:black;font-family:Arial,font-size:18px"><strong>Favourite Quotes</strong></li>
+	        <ol>
+	            <li>
+	                Don't stand in the shadow of someone when it's your light that should lead the way.
+	            </li>
+	            <li>It's not that I'm so smart, It's just that I stay with problems longer </li>
+	        </ol>
+	    <li><em>Places I visited in US</em></li>
+	        <ul>
+	            <li> Key West, Florida</li>
+	            <li> Austin, Texas</li>
+	            <li> Houston, Texas</li>
+	            <li> Atlanta, Georgia</li>
+	            <li> NewYork City, NewYork</li>
+	            <li> Destin, Florida</li>
+	            <li> Pensacola, Florida</li>
+	            <li> Helen, Georgia</li>
+	            <li> New Orleans,Lousiana</li>
+	            <li> Orlando, Florida</li>
+	            <li> Galtinburg, Tennesse</li>
+	            <li> San Antonio, Texas</li>
+	            <li> BrassTown Bald, Georgia</li>
+	            <li> Snow Shoe Village, West Virginia</li>
+	            <li> Charlotte, North Carolina</li>
+	            <li> Waiting to explore Seattle, Orgeon, Boston, California, Arizona</li>
+	            
+	        </ul>
+	</ul>
+	</body>
+	
+</html>
